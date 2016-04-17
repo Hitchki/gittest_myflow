@@ -1,0 +1,16 @@
+/node_modules/
+/typings/
+
+/.idea/
+
+/js/
+
+*.js
+*.map
+
+*.log
+
+/app/beta0.0.4/
+/app/projects/
+
+/todo-list/*.docx
